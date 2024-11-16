@@ -6,15 +6,20 @@ Here’s a **comprehensive list of potential interview questions** that could be
 
 ### **General IAM and Security Questions:**
 1. [What is Identity and Access Management (IAM), and why is it important?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/1.%20What%20is%20IAM.md)
-2. Explain the difference between authentication and authorization.
-3. What is the principle of least privilege, and how does it contribute to security?
-4. How does multi-factor authentication (MFA) enhance security?
-5. Can you explain the concept of Single Sign-On (SSO) and its benefits?
-6. What is the difference between Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC)?
-7. What is identity federation, and why is it used?
-8. Can you explain the purpose of a directory service like Active Directory in IAM?
-9. What are the common challenges faced in IAM implementations?
-10. How do OAuth 2.0, SAML, and OpenID Connect differ, and when would you use each?
+2. [Explain the difference between authentication and authorization.](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/2.%20Authentication%20Authorization.md)
+3. [What is the principle of least privilege, and how does it contribute to security?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/3.%20Principle%20of%20Least%20Privilige.md)
+4. [How does multi-factor authentication (MFA) enhance security?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/4.%20MFA.md)
+5. [Can you explain the concept of Single Sign-On (SSO) and its benefits?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/5.%20SSO.md)
+6. [What is RBAC](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/6.%20RBAC.md)
+7. [What is ABAC](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/7.%20ABAC.md)
+8. [What is the difference between Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC)?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/8.%20RBAC%20vs%20ABAC)
+9. [What is identity federation, and why is it used?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/9.%20Identity%20Federation.md)
+10. [Can you explain the purpose of a directory service like Active Directory in IAM?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/10.%20Active%20Directory.md)
+11. [What are the common challenges faced in IAM implementations?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/11.%20Challenges%20in%20IAM%20Implementation)
+12. [What is Oauth 2.0](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/12.%20What%20is%20Oauth%202.0.md)
+13. [What is SAML](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/13.%20SAML.md)
+14. [What is OpenID Connect](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/14.%20OIDC.md)
+15. [How do OAuth 2.0, SAML, and OpenID Connect differ, and when would you use each?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/15.%20Oauth%20vs%20SAML%20vs%20OIDC)
 
 ---
 
