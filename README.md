@@ -5,7 +5,7 @@ Here’s a **comprehensive list of potential interview questions** that could be
 ---
 
 ### **General IAM and Security Questions:**
-1. [What is Identity and Access Management (IAM), and why is it important?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/1.%20What%20is%20IAM)  
+1. [What is Identity and Access Management (IAM), and why is it important?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/1.%20What%20is%20IAM.md)
 2. Explain the difference between authentication and authorization.
 3. What is the principle of least privilege, and how does it contribute to security?
 4. How does multi-factor authentication (MFA) enhance security?
