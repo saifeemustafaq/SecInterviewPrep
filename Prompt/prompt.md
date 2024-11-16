@@ -7,7 +7,7 @@ You have to answer the above question in the format below, only use the sections
 1. Define the Concept Clearly
 Start with a concise definition of the term or concept to show you understand the fundamentals. Keep the explanation simple and accessible.
 
-2 The above was technical but there should be definition or an explanation in very simple and layman terms which exhibits the qualtiy to explain a concept very easily.
+2. The above was technical but there should be definition or an explanation in very simple and layman terms which exhibits the qualtiy to explain a concept very easily.
 
 2.1 Scenario 1: This will be a sample scenario if applicable to the question
 
