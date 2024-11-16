@@ -9,6 +9,10 @@ Start with a concise definition of the term or concept to show you understand th
 
 2 The above was technical but there should be definition or an explanation in very simple and layman terms which exhibits the qualtiy to explain a concept very easily.
 
+2.1 Scenario 1: This will be a sample scenario if applicable to the question
+
+2.2 Scenario 2: This will be another sample scenario if applicable to the question
+
 3. Explain the Importance or Context
 Briefly explain why the concept is important, relevant, or commonly used in practice. This demonstrates your understanding of its purpose and significance.
 
