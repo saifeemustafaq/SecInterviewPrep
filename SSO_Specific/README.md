@@ -114,3 +114,81 @@ Imagine logging into a company’s intranet portal. After entering your credenti
 
 [How do OAuth 2.0, SAML, and OpenID Connect differ, and when would you use each?](https://github.com/saifeemustafaq/SecInterviewPrep/blob/main/General%20IAM%20and%20Sec%20Ques/15.%20Oauth%20vs%20SAML%20vs%20OIDC)
 
+
+
+
+---
+
+# PART 5
+
+---
+
+### **Types of Single Sign-On (SSO)**
+
+SSO implementations can vary based on the context in which they are used. Below are the most common types of SSO, each serving specific purposes and catering to different organizational needs.
+
+---
+
+#### **1. Web-based SSO**
+Web-based SSO focuses on enabling users to access multiple web applications using a single set of login credentials. It is widely used in environments where web browsers serve as the primary interface for accessing applications.
+
+**Key Features:**
+- Centralized login for multiple web applications.
+- Relies on web protocols such as SAML, OAuth, and OpenID Connect for token-based authentication.
+- Compatible with cloud-based and on-premises applications.
+
+**Example Use Case:**
+A university implements web-based SSO to allow students to log in once and access email, the learning management system, and the library portal through their web browsers. 
+
+**Advantages:**
+- Simplifies access for users who primarily work through browsers.
+- Reduces the time spent managing individual web application credentials.
+
+---
+
+#### **2. Enterprise SSO**
+Enterprise SSO is designed for internal use within organizations, allowing employees to access multiple on-premises and cloud-based enterprise applications with a single login.
+
+**Key Features:**
+- Integrates with existing enterprise infrastructure such as Active Directory (AD) or LDAP.
+- Often paired with hardware tokens or multi-factor authentication (MFA) for enhanced security.
+- Facilitates single login for applications used internally, including legacy systems.
+
+**Example Use Case:**
+An organization enables Enterprise SSO to allow employees to access tools like Microsoft Outlook, SharePoint, and the internal payroll system without repeated logins. 
+
+**Advantages:**
+- Enhances employee productivity by reducing login times.
+- Simplifies IT management, particularly for managing user access and permissions.
+
+---
+
+#### **3. Federated SSO**
+Federated SSO extends the concept of single sign-on across organizational boundaries, allowing users from one organization to access resources in another organization without the need for multiple logins.
+
+**Key Features:**
+- Establishes trust between organizations through federated identity standards like SAML or WS-Federation.
+- Often used in B2B or partner scenarios where users need access to third-party systems.
+- Supports identity federation between cloud and on-premises systems.
+
+**Example Use Case:**
+A supplier company uses Federated SSO to allow its employees to access a partner company’s vendor portal without creating separate accounts, leveraging their corporate credentials.
+
+**Advantages:**
+- Eliminates the need for duplicating user accounts across multiple organizations.
+- Improves collaboration between partner organizations while maintaining security.
+
+---
+
+### **Comparison of SSO Types**
+
+| **Feature**            | **Web-based SSO**                   | **Enterprise SSO**               | **Federated SSO**                 |
+|-------------------------|-------------------------------------|-----------------------------------|------------------------------------|
+| **Primary Use Case**    | Web application access             | Internal enterprise applications | Cross-organizational access       |
+| **Protocols Used**      | SAML, OAuth, OpenID Connect        | LDAP, Kerberos, Active Directory | SAML, WS-Federation               |
+| **Scope**               | Browser-based systems              | On-premises and cloud systems    | Inter-organizational ecosystems   |
+| **Security Enhancements**| MFA, encryption                   | MFA, centralized policies        | Trust-based federation            |
+
+---
+
+These types of SSO illustrate the adaptability of the technology in different scenarios, from web apps to large enterprise systems and even inter-organizational collaborations. Each type addresses specific requirements and challenges, making SSO a versatile solution for secure and efficient user authentication.
